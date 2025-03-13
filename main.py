@@ -189,7 +189,7 @@ class Currency_Exchange_App(QWidget):
 
     def get_exchange(self):
 
-        api_key="6daa2c1a1c21f179d2be4df3"
+        api_key="api_key"
         from_currency=self.from_currency.currentText()
         url=f"https://v6.exchangerate-api.com/v6/{api_key}/latest/{from_currency}"
 
