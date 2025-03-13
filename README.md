@@ -4,7 +4,7 @@
 
 Currency Converter is a simple Python project that helps users find the live amount of currency based on the currency they have. It fetches information from an API and displays relevant options.
 
-🛠️ Features
+🛠️ Features : 
 
 ✅ Search for the price of a currency by a given currency.
 
