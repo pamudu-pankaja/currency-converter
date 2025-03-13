@@ -16,7 +16,7 @@ Currency Converter is a simple Python project that helps users find the live amo
 
 The user inputs available currency. The program searches for information using an API. It displays the currency type and the price of that currency
 
-💬API Used:
+💬API Used :
 
 This project was build using a free api called ExchangeRate-API : https://www.exchangerate-api.com
 
