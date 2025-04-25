@@ -18,7 +18,7 @@ The user inputs available currency. The program searches for information using a
 
 💬API Used :
 
-This project was build using a free api called ExchangeRate-API : https://www.exchangerate-api.com
+This project was build using a free api called- [ExchangeRate-API](https://www.exchangerate-api.com)
 
 🤝 Contributing :
 
